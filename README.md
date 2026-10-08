@@ -27,3 +27,5 @@ Use `src/routes/decks.ts` como exemplo. A especificação completa está no **RO
 Para testar, use `requests.http` (extensão REST Client), Insomnia, Postman ou Thunder Client.
 
 Banco bagunçado? Rode `npm run db:reset`.
+Você precisa completar o código do arquivo server.ts
+A prova deve ser entregue as 21:45
